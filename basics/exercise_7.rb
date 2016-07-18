@@ -1,0 +1,1 @@
+puts "The error tells us it was expecting a closing curly bracket (the end of a hash), instead it evaluated a parentheses."
