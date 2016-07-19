@@ -1,0 +1,3 @@
+in the first case, it prints '3' because x was defined in the outer scope of the block.
+
+in the second, for instance, x is initialized inside the block and can't be accessed on the outside.

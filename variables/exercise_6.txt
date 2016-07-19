@@ -1,0 +1,1 @@
+the variable (or method) "shoes" we're trying to access was probably initialized out of the scope it is being called.
