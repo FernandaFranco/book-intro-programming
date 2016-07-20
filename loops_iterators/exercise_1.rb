@@ -5,4 +5,6 @@ end
 
 # returns the array it iterates over.
 # if i used the method .map instead, 
-# it would return the updated array.
+# it would return an array with the
+# changes (but it would NOT UPDATE the
+# original array!!!).
