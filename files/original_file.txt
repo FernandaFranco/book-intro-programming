@@ -1,0 +1,3 @@
+a third way of writing to a file.
+a third way of writing to a file.
+here we are with a new line of text
