@@ -17,3 +17,8 @@ puts x
 
 #prints 0. variables points to values,
 #not to other variables!
+#edit after reading chapter "More Stuff": 
+#I was wrong! variables point to addresses
+#in memory, not exactly values. Remember, two
+#different places in memory can hold the same
+#value.
